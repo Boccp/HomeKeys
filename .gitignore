@@ -1,0 +1,9 @@
+/build*/
+/dist/
+*.zip
+*.exe
+*.dll
+*.pdb
+HomeKeys-travel-v1.xml
+HomeKeys-library.xml
+.vs/
